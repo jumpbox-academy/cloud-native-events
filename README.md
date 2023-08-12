@@ -1,8 +1,8 @@
-# Cloud Native Event Resources 
+# 🎉 Cloud Native Event Resources 
 
 This repository will collect all resources that we organized all Cloud Native Event from the guest speaker. 
 
-## The main objective of the event
+## ✅ The main objective of the event
 We would like to foster collaborations within communities in both upcountry and the capital of Thailand, enabling connections among them. Additionally, we aim to expand our tech community worldwide through global partnerships.
 
 ### The advantage that we see in the common goal
@@ -23,7 +23,7 @@ We would like to foster collaborations within communities in both upcountry and 
 
 - Build a strong sense of belonging and camaraderie among community members.
 
-## What's the event that Jumpbox can assist to contribution
+## 📣 What's the event that Jumpbox can assist to contribution
 
 - Majukcloud (มาจักคลาวน์) / Korat, Thailand
 
